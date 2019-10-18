@@ -1,0 +1,6 @@
+rootProject.name = 'clean-architecture'
+include 'domain'
+include 'data'
+include 'remote'
+include 'application'
+
